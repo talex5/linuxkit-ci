@@ -16,7 +16,7 @@ logging.info("Using source disk image %s", source_disk_image)
 
 config = {
         'name': name,
-        'machineType': 'zones/europe-west1-b/machineTypes/n1-standard-1',
+        'machineType': 'zones/europe-west1-b/machineTypes/n1-standard-2',
         'disks': [
             {
                 'boot': True,
